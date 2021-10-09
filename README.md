@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Header](https://raw.githubusercontent.com/Ablaze3883/<OWNER>/<OWNER>/holo.gif "Header")](https://github.com/Ablaze3883)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 
 <!--
