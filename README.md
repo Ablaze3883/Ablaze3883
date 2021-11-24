@@ -14,7 +14,7 @@
    <img height="180" width="160" src="https://github.com/Harshal0902/Harshal0902/blob/main/IronMan.png">
 </p>
 
-## Connect with me: <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;">
+## Connect with me: <img src="https://github.com/Ablaze38883/Ablaze3883/holo.gif" height="32px" style="padding-top: 50px;">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>  
 
 [<img width='50' height='50' src="https://user-images.githubusercontent.com/64153988/134053455-cf3aa416-e192-4d79-a3e6-e229b340dbb1.png"/>]()
