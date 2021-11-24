@@ -9,13 +9,12 @@
 
 
 <p align="center">
-   <img height="180" width="160" src="https://github.com/Harshal0902/Harshal0902/blob/main/gamer.png">
+   <img height="180" width="160" src="https://github.com/Ablaze3883/Ablaze3883/holo.gif">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Ablaze3883&theme=neon-dark"/>
    <img height="180" width="160" src="https://github.com/Harshal0902/Harshal0902/blob/main/IronMan.png">
 </p>
 
 
-<img src=""https://github.com/Ablaze3883/Ablaze3883/holo.gif"" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>  
 
 [<img width='50' height='50' src="https://user-images.githubusercontent.com/64153988/134053455-cf3aa416-e192-4d79-a3e6-e229b340dbb1.png"/>]()
 [<img width='50' height='50' src="https://user-images.githubusercontent.com/64153988/134053821-af57cb35-246b-4d37-8418-2dc8664ddc37.png"/>]()
