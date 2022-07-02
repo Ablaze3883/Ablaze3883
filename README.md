@@ -1,62 +1,43 @@
-<h2> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> , I'm Aakash Gupta</h2>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aakash Gupta
+====================================================================================================================================
 
-<img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='200"'>
+### Skills
 
-
-
-
-## A little more about me...  
-
-
-<p align="center">
-   <img height="180" width="160" src="https://github.com/Ablaze3883/Ablaze3883/holo.gif">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Ablaze3883&theme=neon-dark"/>
-   <img height="180" width="160" src="https://github.com/Harshal0902/Harshal0902/blob/main/IronMan.png">
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 
+### Socials
 
-[<img width='50' height='50' src="https://user-images.githubusercontent.com/64153988/134053455-cf3aa416-e192-4d79-a3e6-e229b340dbb1.png"/>]()
-[<img width='50' height='50' src="https://user-images.githubusercontent.com/64153988/134053821-af57cb35-246b-4d37-8418-2dc8664ddc37.png"/>]()
-[<img width='50' height='50' src="https://user-images.githubusercontent.com/64153988/134053752-f53f94fc-8cbc-4754-a547-a27694d237e4.png"/>]() 
-<br />
+<p align="left"> <a href="https://www.github.com/Ablaze3883" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ablazeg3883" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/@AakashG37471706" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<summary><h2>Github Stats 📈:</h2></summary>
-	
-<p align="center">
-  <img height= "180px" src="https://github-readme-stats.vercel.app/api?username=Ablaze3883
-&&show_icons=true&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a" />
-  <img height= "180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ablaze3883
-&title_color=ff0066&icon_color=bb2acf&text_color=00ffff&bg_color=00001a&layout=compact&hide=css" />
-</p>
+### Badges
 
-<details align="center">
-  <summary>GitHub Activity Graph 📈</summary>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Ablaze3883
-&theme=xcode" />
-</p>
-</details>
+<b>My GitHub Stats</b>
 
-<details align="center">
-  <summary>GitHub Trophies 🏆</summary>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ablaze3883
-&column=4&margin-w=5&margin-h=5&theme=darkhub"/>
-  </a>
-</p>
-</details>
+<a href="http://www.github.com/Ablaze3883"><img src="https://github-readme-stats.vercel.app/api?username=Ablaze3883&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ablaze3883's GitHub stats" /></a>
 
-<p><code><img height="20" src="https://komarev.com/ghpvc/?username=Ablaze3883
-&color=blue"></code></p>
+<a href="http://www.github.com/Ablaze3883"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ablaze3883&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<!--   
- funfact: "I love coding+eating+repeating"
-- 🔭 I’m currently working on Front End Web Development
-- 🌱 I’m currently learning MERN stack
-- 😄 Pronouns: He/His
-- 🎯 Portfolio site:  
-## Tech I'm familiar with...
+<a href="http://www.github.com/Ablaze3883"><img src="https://activity-graph.herokuapp.com/graph?username=Ablaze3883&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
--->
+<a href="https://github.com/Ablaze3883" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ablaze3883&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/ablazeg388L"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
