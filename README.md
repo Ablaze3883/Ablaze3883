@@ -6,7 +6,7 @@ Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/
 ```javascript
 const aakash = {
 	pronouns: "he" | "him",
-	code: [Python, R,  C, C++,SQL JavaScript,],
+	code: [Python, R,  C, C++, SQL,JavaScript,],
 	framework: [Django,Flask],
 	devOps: [Docker],
 	tools: [Tensorflow,Pycharm, Figma],
