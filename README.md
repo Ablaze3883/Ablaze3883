@@ -3,7 +3,7 @@ Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/
 
 ## The developer side of me...
 
-```
+```javascript
 const aakash = {
 	pronouns: "he" | "him",
 	code: [Python, R,  C, C++,SQL JavaScript,],
