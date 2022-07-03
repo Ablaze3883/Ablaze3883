@@ -1,5 +1,19 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aakash Gupta
+Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> My name is Aakash Gupta
 ====================================================================================================================================
+
+## The developer side of me...
+
+```
+const aakash = {
+	pronouns: "he" | "him",
+	code: [Python, R,  C, C++,SQL JavaScript,],
+	framework: [Django,Flask],
+	devOps: [Docker],
+	tools: [Tensorflow,Pycharm, Figma],
+	},
+	askMeAbout: ["Deep Learning,Machine Learning,NLP,Data Science"]
+}
+```
 
 ### Skills
 
