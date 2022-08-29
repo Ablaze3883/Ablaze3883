@@ -8,7 +8,7 @@ const aakash = {
 	pronouns: "he" | "him",
 	code: [Python, R,  C, C++, SQL,JavaScript,],
 	framework: [Django,Flask],
-	devOps: [Docker],
+	devOps: [Docker],[Kubernetes]
 	tools: [Tensorflow,Pycharm, Figma],
 	},
 	askMeAbout: ["Deep Learning,Machine Learning,NLP,Data Science"]
